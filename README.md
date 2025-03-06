@@ -31,7 +31,7 @@ npm -v  # Check npm version
 
 ### Installation
 
-Clone the repository and install dependencies:
+Create a new folder and clone the repository:
 
 ```bash
 mkdir lectures
@@ -74,6 +74,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 │── .env  # Environment variables
 │── package.json
 │── README.md
+│── LICENSE  # Open-source license
 ```
 
 ## Prisma Setup
@@ -109,5 +110,9 @@ For MongoDB on production, use **MongoDB Atlas** and update `DATABASE_URL` in `.
 
 ---
 
+## License
+
+This project is **open-source** and licensed under the [MIT License](LICENSE).
+
 **Author:** Siphesihle Mbuyisa  
-**License:** MIT# lectures
+**License:** MIT
